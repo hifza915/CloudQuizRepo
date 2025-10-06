@@ -1,0 +1,9 @@
+Cloud Service Models:
+- IaaS: Provides virtualized computing resources over the internet.
+- PaaS: Offers a platform allowing customers to develop, run, and manage apps.
+- SaaS: Delivers software applications over the internet on a subscription basis.
+
+Cloud Deployment Models:
+- Public Cloud: Shared infrastructure available to the public.
+- Private Cloud: Dedicated to a single organization.
+- Hybrid Cloud: Combines public and private cloud environments.
